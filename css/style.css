@@ -175,7 +175,7 @@ input::placeholder {
   font-weight: 700;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 768px) {
   article {
     height: 100vh;
     width: 100vw;
